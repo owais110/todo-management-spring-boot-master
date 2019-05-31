@@ -7,12 +7,9 @@
 		format : 'dd/mm/yyyy'
 	});
 </script>
-
-
 <div class="footer">
 	<h1>
-		<span>
-			Applied Programming</span>
+		<span>Applied Programming</span>
 	</h1>
 </div>
 </body>
